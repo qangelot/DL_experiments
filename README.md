@@ -1,2 +1,4 @@
 # DL_experiments
-computer vision and NLP notebooks using keras
+
+Building a customizable neural network in OOP 
+Hyperparameters : optimizers, layers size, network depth, cost functions and so on 
